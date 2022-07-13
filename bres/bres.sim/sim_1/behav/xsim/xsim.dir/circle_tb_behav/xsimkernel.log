@@ -1,0 +1,7 @@
+Running: xsim.dir/circle_tb_behav/xsimk.exe -simmode gui -wdb circle_tb_behav.wdb -simrunnum 0 -socket 55808
+Design successfully loaded
+Design Loading Memory Usage: 5692 KB (Peak: 5692 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 6316 KB (Peak: 6316 KB)
+Simulation CPU Usage: 31 ms
